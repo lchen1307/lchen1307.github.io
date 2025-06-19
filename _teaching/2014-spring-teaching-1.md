@@ -8,4 +8,4 @@ date: 2025-07-08
 location: "Hefei, CN"
 ---
 
-I mainly served as a teaching assistant, assisting Prof. Wang Zhi from NJU in teaching. The course content mainly includes the basics of reinforcement learning and its application in LLM.
+I mainly served as a teaching assistant, assisting [Prof. Wang Zhi](https://heyuanmingong.github.io/) from [Nanjing University](https://sme.nju.edu.cn/englishversion/main.htm) in teaching. The course content mainly includes the basics of reinforcement learning and its application in LLM.
