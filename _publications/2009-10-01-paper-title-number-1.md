@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Extended Arc-Time-Indexed Formulation and Exact Approach for Flow Shop Scheduling"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
