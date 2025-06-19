@@ -11,7 +11,7 @@ redirect_from:
 
 Research Interest
 ======
- I am a master student majoring in Operations Research advised by Prof. Lindong Liu at the School of Management, University of Science and Technology of China. I expect to graduate with a master's degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from Jiangnan University in 2023. 
+My research interests span integer programming, robust optimization, and data-driven decision-making. Notably, I focus on how optimization algorithms function within operations management. My work is inspired by significant real-world applications like flood emergency and manufacturing scenarios.
 * **Methodologies:** Statistical learning, Integer programming, robust optimization.
 * **Applied Area:** Revenue management, machine scheduling, transportation.
 
