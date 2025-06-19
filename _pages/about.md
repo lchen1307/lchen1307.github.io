@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interest
 ======
-My research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by practical challenges arising in critical areas such as emergency management and two-sided platforms, where robust and equitable algorithmic solutions can have significant real-world impact.
+My research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by complex, real-world challenges emerging in high-stakes domains such as emergency management and two-sided platforms, where robust and equitable algorithmic solutions can have significant real-world impact.
 {: .text-justify}
 
 ***I am looking forward to beginning a Ph.D. journey in Fall 2026, where I hope to explore challenging problems and collaborate with researchers to create meaningful algorithmic solutions!***
