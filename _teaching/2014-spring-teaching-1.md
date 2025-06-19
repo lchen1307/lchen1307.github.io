@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Reinforcement Learning: Basics and State-of-the-Art"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduate course"
+permalink: /teaching/2025-summer-teaching-1
+venue: "University of Science and Technology of China, Department of Management Science"
+date: 2025-07-08
+location: "Hefei, CN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I mainly served as a teaching assistant, assisting Prof. Wang Zhi from NJU in teaching. The course content mainly includes the basics of reinforcement learning and its application in LLM.
