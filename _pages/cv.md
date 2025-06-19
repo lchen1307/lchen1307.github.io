@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 Download my CV](https://lchen1307.github.io/files/CHEN Long_CV.pdf)
+[📄 Download my CV](https://lchen1307.github.io/files/CV_LongChen.pdf)
