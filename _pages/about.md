@@ -14,7 +14,11 @@ Research Interest
 My research interests span integer programming, robust optimization, and data-driven decision-making. Notably, I focus on how optimization algorithms function within operations management. My work is inspired by significant real-world applications like flood emergency and manufacturing scenarios.
 * **Methodologies:** Statistical learning, Integer programming, robust optimization.
 * **Applied Area:** Revenue management, machine scheduling, transportation.
+I am actively seeking a Ph.D. position starting in Fall 2026!
 
+Contact
+======
+lchen1307@mail.ustc.edu.cn
 
 
 
