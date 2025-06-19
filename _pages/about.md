@@ -11,11 +11,9 @@ redirect_from:
 
 Research Interest
 ======
-My research interests span integer programming, robust optimization, and data-driven decision-making. Notably, I focus on how optimization algorithms function within operations management. My work is inspired by significant real-world applications like flood emergency and manufacturing scenarios.
-* **Methodologies:** Statistical learning, Integer programming, robust optimization.
-* **Applied Area:** Revenue management, machine scheduling, transportation.
+My research lies at the intersection of integer programming, machine learning, and statistics. I am particularly interested in developing algorithms that are not only efficient but also reliable and fair, with the goal of supporting the design of cutting-edge decision-making tools. My work is often inspired by practical challenges arising in critical areas such as emergency management and two-sided platforms, where robust and equitable algorithmic solutions can have significant real-world impact.
 
-I am actively seeking a Ph.D. position starting in Fall 2026!
+I am looking forward to beginning a Ph.D. journey in Fall 2026, where I hope to explore challenging problems and collaborate with researchers to create meaningful algorithmic solutions!
 
 Contact
 ======
