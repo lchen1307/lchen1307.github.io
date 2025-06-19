@@ -1,7 +1,7 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+## Industry Experiences
+* **Bosch China** Department of MOE4.3. Industrial 4.0 Engineer Intern. Nov 2022 - Dec 2023
+* **Changxin Memory Tech** Department of Algorithm Optimization. Operations Research Engineer Intern. Jan 2024 - Apr 2025 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+## Selected Awards
+* National Scholarship 
