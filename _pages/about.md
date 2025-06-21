@@ -24,8 +24,8 @@ My research lies at the intersection of integer programming, machine learning, a
 lchen1307@mail.ustc.edu.cn
 
 
-<p style="font-size: 0.75rem; color: #666; text-align: center; margin-top: 2rem;">
-  🕒 Last updated: June 2025
+<p style="font-size: 0.75rem; color: #666; text-align: right; margin-top: 2rem;">
+  Last updated: June 2025
 </p>
 
 
