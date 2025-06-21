@@ -16,10 +16,12 @@ author_profile: false
 
 🥳 More about me 
 ======
-* I like watching anime very much. Some of my favorite anime include Attack Giant, Ghost Annihilation Blade, Immortal You, King Ranking, Summer Reappearance, Link Click, etc.
-* Long-distance running is a sport that can make people forget themselves. My weekly running distance is between 150 and 250 kilometers. I will definitely sign up for the marathons in the surrounding cities (but I seldom succeed in the lottery). The current best time for a half marathon is 1 hour and 55 minutes
-* My two favorite singers are Taylor Swift and Silence Wang (汪苏泷). Both of them were born in 1989. Their songs are all very pleasant to listen to. Moreover, the fact that the two singers keep stepping out of their comfort zones and creating more interesting musical works can also give me strength. I have listened to Silence Wang's live performances many times before and I'm really happy. I hope to have the chance to hear Tarlor Swift's live performances in the future.
-
+* I really enjoy watching anime—it’s my favorite way to unwind after a long day. Some of the shows I love include Attack on Titan, Ghost Annihilation Blade, Immortal You, Ranking of Kings, Summer Reappearance, and Link Click. I’m always on the lookout for new series with great storytelling and unique animation. Anime often makes me laugh, cry, and think—it’s more than just entertainment to me.
+{: .text-justify }
+* Running long distances is something I genuinely enjoy. It clears my head and gives me a sense of rhythm and focus. I usually run between 150 and 250 kilometers per week (yes, it’s a lot!). I often sign up for marathons in nearby cities—though I rarely win the lottery slots. My current best time for a half marathon is 1 hour and 55 minutes, and I’m working on beating it!
+{: .text-justify }
+* My two favorite singers are Taylor Swift and Silence Wang (汪苏泷), both born in 1989. Their music is not only enjoyable, but also empowering. The way they consistently explore new styles gives me inspiration. I’ve attended Silence Wang’s concerts before, and I hope to experience Taylor Swift live someday.
+{: .text-justify }
 
 
 
