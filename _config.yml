@@ -21,7 +21,7 @@ repository               : "lchen1307.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile5.png"
+  avatar           : "profile6.png"
   name             : "Long Chen"
   pronouns         : # example: "she/her"  
   bio              : "MPhil student at USTC"
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  rednote          : "https://www.xiaohongshu.com/user/profile/5cfd2efb000000002500af3c?m_source=mengfanwetab"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
