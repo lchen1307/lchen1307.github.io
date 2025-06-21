@@ -5,14 +5,18 @@ permalink: /portfolio/
 author_profile: false
 ---
 
+---
+
 🧑‍💻 Industry Experience
 ======
 * Bosch China. Indutry 4.0 Engineer. Nov 2022 - Jun 2023
 * Changxin Memory Tech. Operations Research Algorithm Engineer. Jan 2024 - May 2025
+---
 
 🏆 Seleted Awards
 ======
 * National Scholarship 2022
+---
 
 🥳 More about me 
 ======
