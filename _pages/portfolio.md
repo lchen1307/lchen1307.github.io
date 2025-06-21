@@ -5,16 +5,16 @@ permalink: /portfolio/
 author_profile: false
 ---
 
-📖 Industry Experience
+🧑‍💻 Industry Experience
 ======
 * Bosch China. Indutry 4.0 Engineer. Nov 2022 - Jun 2023
 * Changxin Memory Tech. Operations Research Algorithm Engineer. Jan 2024 - May 2025
 
-📮 Seleted Awards
+🏆 Seleted Awards
 ======
 * National Scholarship 2022
 
-More about me 
+🥳 More about me 
 ======
 * I like watching anime very much. Some of my favorite anime include Attack Giant, Ghost Annihilation Blade, Immortal You, King Ranking, Summer Reappearance, Link Click, etc.
 * Long-distance running is a sport that can make people forget themselves. My weekly running distance is between 150 and 250 kilometers. I will definitely sign up for the marathons in the surrounding cities (but I seldom succeed in the lottery). The current best time for a half marathon is 1 hour and 55 minutes
