@@ -21,10 +21,10 @@ repository               : "lchen1307.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile3.png"
+  avatar           : "profile4.png"
   name             : "Long Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Msc. student at USTC"
+  bio              : "MPhil student at USTC"
   location         : "Hefei, CN"
   employer         : # "University of Science and Technology of China"
   uri              : # URL
