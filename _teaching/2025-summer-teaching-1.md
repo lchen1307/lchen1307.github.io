@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2025-summer-teaching-1
 venue: "University of Science and Technology of China, Department of Management Science"
-date: 2025 Summer
+date: 2025-07-08
 location: "Hefei, CN"
 ---
 
