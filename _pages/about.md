@@ -1,6 +1,6 @@
 ---
-permalink: /
 title: "Long Chen"
+permalink: /
 author_profile: true
 show_title: false
 redirect_from: 
