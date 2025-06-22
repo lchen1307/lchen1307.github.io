@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a master student majoring in Management Science and Engineering advised by [Prof. Lindong Liu](https://sites.google.com/view/ldliu/home) at the [School of Management](https://en.business.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/). I expect to graduate with a master's degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from [Jiangnan University](https://english.jiangnan.edu.cn/) in 2023. 
+I am a M.Phil. student majoring in Operations Research advised by [Prof. Lindong Liu](https://sites.google.com/view/ldliu/home) at the [School of Management](https://en.business.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/), and a member of the [IDEA Lab](https://team.ustc.edu.cn/yunchougongxueshe/en/index.htm). I expect to graduate with a master's degree in the summer of 2026. Prior to that, I obtained my B.S. in Industrial Engineering from [Jiangnan University](https://english.jiangnan.edu.cn/) in 2023.
 {: .text-justify} 
 
 📖 Research Interest
