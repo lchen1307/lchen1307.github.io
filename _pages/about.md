@@ -19,6 +19,8 @@ My research lies at the intersection of integer programming, machine learning, a
 ***I am looking forward to beginning a Ph.D. journey in Fall 2026, where I hope to explore challenging problems and collaborate with researchers to create meaningful algorithmic solutions!*** 
 {: .text-justify}
 
-📮 Contact
+🔥 News
 ======
-lchen1307@mail.ustc.edu.cn
+* *2024.01*: I join Changxin Memory Tech as a Operations Research Engineer at Department of AOPT.
+* *2023.09*: I start my new study in USTC! 
+
