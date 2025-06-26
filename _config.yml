@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Long Chen"
+title                    : "CHEN, Long"
 title_separator          : "-"
 name                     : &name "Long Chen"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile5.png"
   name             : "Long Chen"
   pronouns         : # example: "she/her"  
-  bio              : "MPhil student at USTC"
+  bio              : "M.Phil. student at USTC"
   location         : "Hefei, CN"
   employer         : # "University of Science and Technology of China"
   uri              : # URL
