@@ -1,5 +1,5 @@
 ---
-title: ["Reinforcement Learning: Basics and State-of-the-Art"](https://lchen1307.github.io/ip-rl/)
+title: "Reinforcement Learning: Basics and State-of-the-Art"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2025-summer-teaching-1
