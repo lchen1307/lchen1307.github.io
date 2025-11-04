@@ -8,8 +8,9 @@ author_profile: false
 <style>
 /* ===== Compact Publications Page Style ===== */
 #main {
-  max-width: 900px;              /* 页面整体宽度 */
+  max-width: 900px;
   margin: 0 auto;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 h2, h3 {
@@ -19,21 +20,30 @@ h2, h3 {
   font-weight: 600;
 }
 
-/* 论文条目字体与行距 */
-.archive__item, .post, .publications, .archive__item-title, p, li {
-  font-size: 13.5px !important;  /* 缩小字体 */
-  line-height: 1.35 !important;  /* 紧凑行距 */
-  margin-bottom: 0.3em !important;
+ol.publications {
+  counter-reset: pubcounter;
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5em;
 }
 
-/* 去掉多余空隙 */
-.archive__item {
-  padding-bottom: 0.3em !important;
-  margin-bottom: 0.4em !important;
-  border: none !important;
+ol.publications li {
+  counter-increment: pubcounter;
+  margin-bottom: 0.4em;
+  line-height: 1.35;
+  font-size: 13.5px;
+  position: relative;
+  padding-left: 2em;
 }
 
-/* 链接样式 */
+ol.publications li::before {
+  content: counter(pubcounter) ".";
+  position: absolute;
+  left: 0;
+  color: #444;
+  font-weight: 600;
+}
+
 a {
   color: #0366d6;
   text-decoration: none;
@@ -42,45 +52,58 @@ a:hover {
   text-decoration: underline;
 }
 
-/* 参考文献信息 */
 em {
   color: #444;
   font-style: italic;
 }
 
-/* 页脚留白稍减 */
 footer {
   margin-top: 1em;
 }
 </style>
 
-
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">
+  You can also find my articles on
+  <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+</div>
 {% endif %}
 
-{% include base_path %}
+<hr>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Journal Articles</h2>
 
+<ol class="publications">
+  <li>
+    <strong>Long Chen</strong>, Lindong Liu, and Lan Lu. 
+    "Extended Arc-Time-Indexed Formulation and Exact Approach for Flow Shop Scheduling."
+    <em>Journal 1</em>, 2025.
+    <a href="/files/paper1.pdf">[paper]</a>
+    <a href="/files/slides1.pdf">[slides]</a>
+  </li>
 
+  <li>
+    <strong>Long Chen</strong>, et al.
+    "Two-Stage Optimization for Compute-Sharing Platforms: Pricing and Matching via Lagrangian Decomposition."
+    <em>Submitted</em>, 2025.
+    <a href="/files/paper2.pdf">[paper]</a>
+  </li>
 
+  <li>
+    <strong>Long Chen</strong>, Andres Gómez, and Wei Honghao.
+    "Data-Driven Cutting Plane Selection for Integer Programming."
+    <em>In preparation</em>, 2026.
+  </li>
+</ol>
+
+<hr>
+
+<h2>Conference Presentations</h2>
+
+<ol class="publications">
+  <li>
+    <strong>Long Chen</strong>.
+    "Branch-and-Price for Flow Shop Scheduling."
+    Presented at <em>POMS Hong Kong</em>, 2026.
+  </li>
+</ol>
