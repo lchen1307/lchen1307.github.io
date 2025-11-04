@@ -51,15 +51,20 @@ author_profile: false
 
 
 <script>
-function toggleAbstract(element) {
-  // 找到当前论文中的 abstract 区块
-  const abs = element.parentElement.querySelector('.abstract');
-  if (abs.style.display === 'none' || abs.style.display === '') {
-    abs.style.display = 'block';
-    element.textContent = '[hide abstract]';
-  } else {
-    abs.style.display = 'none';
-    element.textContent = '[abstract]';
-  }
-}
+document.addEventListener("DOMContentLoaded", function() {
+  const toggles = document.querySelectorAll(".abstract-toggle");
+  toggles.forEach(function(toggle) {
+    toggle.addEventListener("click", function() {
+      const abs = this.parentElement.querySelector(".abstract");
+      if (abs.style.display === "none" || abs.style.display === "") {
+        abs.style.display = "block";
+        this.textContent = "[hide abstract]";
+      } else {
+        abs.style.display = "none";
+        this.textContent = "[abstract]";
+      }
+    });
+  });
+});
 </script>
+
