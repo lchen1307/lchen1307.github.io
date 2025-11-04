@@ -22,7 +22,7 @@ author_profile: false
     <strong>Long Chen</strong>, Lan Lu*, and Lindong Liu. 
     "Extended Arc-Time-Indexed Formulation and Exact Approach for Flow Shop Scheduling."
     <em>Submitted</em>, 2025. 
-    <span class="abstract-toggle" onclick="toggleAbstract(this)">[abstract]</span>
+     <a href="#" class="abstract-toggle">[abstract]</a>
     <a href="/files/manuscript/ATIFFS_Manuscript.pdf">[paper]</a>
     <a href="/files/slides/ATIFFS_Slides.pdf">[slides]</a>
   
@@ -55,17 +55,22 @@ author_profile: false
 </style>
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll(".abstract-toggle").forEach(function(a){
-    a.addEventListener("click", function(e){
-      e.preventDefault(); // 不跳页
+document.addEventListener("DOMContentLoaded", function() {
+  const toggles = document.querySelectorAll(".abstract-toggle");
+  toggles.forEach(function(toggle) {
+    toggle.addEventListener("click", function() {
       const abs = this.parentElement.querySelector(".abstract");
-      const shown = abs && (abs.style.display === "block");
-      if(abs){ abs.style.display = shown ? "none" : "block"; }
-      this.textContent = shown ? "[abstract]" : "[hide]";
+      if (abs.style.display === "none" || abs.style.display === "") {
+        abs.style.display = "block";
+        this.textContent = "[hide abstract]";
+      } else {
+        abs.style.display = "none";
+        this.textContent = "[abstract]";
+      }
     });
   });
 });
 </script>
+
 
 
