@@ -48,3 +48,18 @@ author_profile: false
 <ol class="publications">
 
 </ol>
+
+
+<script>
+function toggleAbstract(element) {
+  // 找到当前论文中的 abstract 区块
+  const abs = element.parentElement.querySelector('.abstract');
+  if (abs.style.display === 'none' || abs.style.display === '') {
+    abs.style.display = 'block';
+    element.textContent = '[hide abstract]';
+  } else {
+    abs.style.display = 'none';
+    element.textContent = '[abstract]';
+  }
+}
+</script>
