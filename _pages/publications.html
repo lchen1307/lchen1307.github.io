@@ -5,6 +5,56 @@ permalink: /publications/
 author_profile: false
 ---
 
+<style>
+/* ===== Compact Publications Page Style ===== */
+#main {
+  max-width: 900px;              /* 页面整体宽度 */
+  margin: 0 auto;
+}
+
+h2, h3 {
+  margin-top: 0.8em;
+  margin-bottom: 0.4em;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* 论文条目字体与行距 */
+.archive__item, .post, .publications, .archive__item-title, p, li {
+  font-size: 13.5px !important;  /* 缩小字体 */
+  line-height: 1.35 !important;  /* 紧凑行距 */
+  margin-bottom: 0.3em !important;
+}
+
+/* 去掉多余空隙 */
+.archive__item {
+  padding-bottom: 0.3em !important;
+  margin-bottom: 0.4em !important;
+  border: none !important;
+}
+
+/* 链接样式 */
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* 参考文献信息 */
+em {
+  color: #444;
+  font-style: italic;
+}
+
+/* 页脚留白稍减 */
+footer {
+  margin-top: 1em;
+}
+</style>
+
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
